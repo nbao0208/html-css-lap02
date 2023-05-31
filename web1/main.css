@@ -1,34 +1,33 @@
-.tour-img{
+.tour-img {
   margin-right: auto;
   width: 330px;
   height: auto;
 }
-.edit-tab{
+.edit-tab {
   display: inline-block;
   display: flex;
   justify-content: center;
-  
 }
-.mytable{
+.mytable {
   width: 100%;
   border: 0;
 }
-.mytable2{
+.mytable2 {
   width: 100%;
   text-align: center;
   border-collapse: collapse;
 }
-.text{
+.text {
   border: 1px solid black;
   padding: 9px;
 }
-.mycap{
+.mycap {
   color: green;
   margin-right: 0%;
   border: 1px solid black;
   padding: 9px;
 }
-.imgtab{
+.imgtab {
   width: 350px;
   height: auto;
 }
